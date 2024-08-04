@@ -1,8 +1,8 @@
 <h1> Olá, eu sou o Raul Gomes 🙋‍♂️ 👨‍💻 <h1/>
 
-- Sou desenvolvedor de softwares 👨‍💻 📲 💻
+- Sou Analista de Dados 👨‍💻 📲 💻
 
-- Sou formado em tecnologia em banco de dados, e com especializacao em desenvolvimento FullStack e Mobile iOS. 👨‍🎓 👨‍💻 
+- Sou formado em tecnologia em banco de dados, e com especializacao em análise de dados estratégicos. 👨‍🎓 👨‍💻 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
